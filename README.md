@@ -80,8 +80,7 @@ La carpeta `dist` se despliega en Netlify.
 
 ## Propuesta gráfica
 
-- Propuesta gráfica local: `propuesta-grafica.html`
-- Enlace a Figma / Adobe: _(pendiente de agregar)_
+- Enlace a Figma: _(pendiente de agregar)_
 
 ## Integrantes
 
