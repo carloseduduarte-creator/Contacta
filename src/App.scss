@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #eef2f7;
+  color: #222222;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+main {
+  min-height: calc(100vh - 60px);
+}
+
+.local-banner {
+  background-color: #fff3cd;
+  color: #856404;
+  text-align: center;
+  padding: 0.55rem 1rem;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #f0d9a8;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+a {
+  color: #1f4e79;
+}
