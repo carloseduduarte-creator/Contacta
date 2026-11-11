@@ -84,7 +84,7 @@ La carpeta `dist` se despliega en Netlify.
 
 ## Integrantes
 
-- Carlos Eduardo Duarte
+- Carlos Eduardo Duarte ([rama](https://github.com/carloseduduarte-creator/Contacta/tree/carlos-eduardo-duarte))
 - Javier Lara
 
 ## Enlaces
