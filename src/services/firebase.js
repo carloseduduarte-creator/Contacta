@@ -3,6 +3,8 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 import { isLocalMode } from '../helpers/config';
 
+// Aporte Carlos: conexión con Firebase Authentication y Firestore
+
 let auth = null;
 let db = null;
 

@@ -1,4 +1,5 @@
-// Trie (árbol de prefijos) para buscar contactos por nombre
+// Trie (árbol de prefijos) para buscar contactos por nombre.
+// Aporte Carlos: búsqueda por prefijo del nombre.
 
 class TrieNode {
   constructor() {
