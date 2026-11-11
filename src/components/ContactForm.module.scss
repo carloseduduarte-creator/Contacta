@@ -1,0 +1,91 @@
+.form {
+  background-color: #f7f9fc;
+  border: 1px solid #d0d7e2;
+  border-radius: 8px;
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.form h3 {
+  margin: 0 0 0.4rem 0;
+  color: #1f4e79;
+}
+
+.form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.9rem;
+  color: #333333;
+}
+
+.form input,
+.form select,
+.form textarea {
+  padding: 0.5rem;
+  border: 1px solid #b8c4d4;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.error {
+  color: #b00020;
+  background-color: #fdecea;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.relations {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.relations li {
+  background-color: #e3eef8;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.relations button {
+  border: none;
+  background: transparent;
+  color: #b00020;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.4rem;
+}
+
+.primary {
+  background-color: #1f4e79;
+  color: #ffffff;
+  border: none;
+  padding: 0.55rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.secondary {
+  background-color: #ffffff;
+  color: #1f4e79;
+  border: 1px solid #1f4e79;
+  padding: 0.55rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
