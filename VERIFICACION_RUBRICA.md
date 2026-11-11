@@ -18,4 +18,4 @@
 | Login y registro reales | Firebase Auth email/password | `authService.js` | Pendiente de claves Firebase |
 | Almacenamiento y transacciones | CRUD en Firestore | `contactsService.js` | Pendiente de claves Firebase |
 | Documento final en GIT | Alcance, tecnologías y estructuras | `DOCUMENTO_FINAL.md` | Cumplido |
-| README con integrantes, gráfica y Netlify | Plantilla creada | `README.md` | Parcial (completar enlaces y nombres) |
+| README con integrantes, gráfica y Netlify | README con Netlify, GitHub e integrante | `README.md` | Parcial (falta Figma y más integrantes si aplica) |

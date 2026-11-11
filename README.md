@@ -90,6 +90,6 @@ La carpeta `dist` se despliega en Netlify.
 
 ## Enlaces
 
-- Repositorio Git: _(se actualizará al subir el proyecto)_
+- Repositorio Git: https://github.com/carloseduduarte-creator/Contacta
 - Despliegue Netlify: https://euphonious-centaur-edf9e0.netlify.app
 - Backend Firebase: proyecto `contacta-d760b` (Authentication + Firestore)
