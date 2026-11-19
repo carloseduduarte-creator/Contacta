@@ -1,0 +1,22 @@
+.search {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.search input {
+  flex: 1;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #b8c4d4;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.search button {
+  border: 1px solid #1f4e79;
+  background-color: #ffffff;
+  color: #1f4e79;
+  padding: 0.45rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
